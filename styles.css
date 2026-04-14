@@ -12,4 +12,4 @@ body { background-color: #f4f7f6; color: #333; }
 .card .area { display: inline-block; background: #ecf0f1; padding: 3px 8px; border-radius: 10px; font-size: 0.8rem; margin-bottom: 10px; font-weight: bold;}
 .card p { font-size: 0.9rem; margin-bottom: 15px; }
 .card button { background: #3498db; color: #fff; border: none; padding: 8px 15px; border-radius: 4px; cursor: pointer; width: 100%; }
-.card button:hover { background: #2980b9; }
+.card button:hover { background: #2980b9; } 
